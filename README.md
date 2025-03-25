@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Not avaliable]
 
-- 💬 Ask me about **What you want**
+- 💬 Ask me about **What ever do you want**
 
 - 📫 How to reach me **ardau367@gmail.com**
 
