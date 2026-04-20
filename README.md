@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda Utku</h1>
 <h3 align="center">Software Engineer Student From Turkey</h3>
 
-- 🔭 I’m currently working on [Ai Coach](Not avaliable)
+- 🔭 I’m currently working on [ExperCep]
 
 - 🌱 I’m currently learning **Html,CSS,JavaScript,C++,C#,SQL,Python**
 
